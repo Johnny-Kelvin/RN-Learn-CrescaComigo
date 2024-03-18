@@ -1,0 +1,61 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/Sono-Bold.ttf",
+      "sha1": "781c87f16725eff3ecb636ef2708c10922f719be"
+    },
+    {
+      "path": "src/assets/fonts/Sono-ExtraBold.ttf",
+      "sha1": "4a8de951baa3c330a7e766b444f9ab2cd4e75074"
+    },
+    {
+      "path": "src/assets/fonts/Sono-ExtraLight.ttf",
+      "sha1": "7da9b1f677e70fde394e4c3ca537404f6dc7bd66"
+    },
+    {
+      "path": "src/assets/fonts/Sono-Light.ttf",
+      "sha1": "850363de08108d6057b0f717258e55ec7f099488"
+    },
+    {
+      "path": "src/assets/fonts/Sono-Medium.ttf",
+      "sha1": "02662404297883013aa32e927d4fe9ccca1f6b32"
+    },
+    {
+      "path": "src/assets/fonts/Sono-Regular.ttf",
+      "sha1": "ffd538e5ac4dcfcdc565bd40872e0b693e97966f"
+    },
+    {
+      "path": "src/assets/fonts/Sono-SemiBold.ttf",
+      "sha1": "9dd99e265a533b3e09082ddef1e7b4ecb5e2e542"
+    },
+    {
+      "path": "src/assets/fonts/Sono_Proportional-Bold.ttf",
+      "sha1": "7f85424e388d4d3aa46cd5135a19eecc00bf1442"
+    },
+    {
+      "path": "src/assets/fonts/Sono_Proportional-ExtraBold.ttf",
+      "sha1": "accc108305845a70946b970a63df9ab4f369e7a7"
+    },
+    {
+      "path": "src/assets/fonts/Sono_Proportional-ExtraLight.ttf",
+      "sha1": "9b18184f21fbb2107c6bded8d7acda701189784e"
+    },
+    {
+      "path": "src/assets/fonts/Sono_Proportional-Light.ttf",
+      "sha1": "9e7a0c4704fd40b25855241e4a02bf0bd3726f97"
+    },
+    {
+      "path": "src/assets/fonts/Sono_Proportional-Medium.ttf",
+      "sha1": "b49aef6ff5039a1daec969561310f5338a1c22ee"
+    },
+    {
+      "path": "src/assets/fonts/Sono_Proportional-Regular.ttf",
+      "sha1": "bfb615db9cfc3bface1a120f8678d9ce546be361"
+    },
+    {
+      "path": "src/assets/fonts/Sono_Proportional-SemiBold.ttf",
+      "sha1": "3895c3f1c32f34719ac07f51d41133777297ef42"
+    }
+  ]
+}
